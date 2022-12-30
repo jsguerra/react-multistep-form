@@ -1,3 +1,3 @@
 # Example Multistep Form
 
-Created using Typescript. State is maintained throughout each step.
+Created using Reactjs, Typescript and Vitejs. State is maintained throughout each step.
